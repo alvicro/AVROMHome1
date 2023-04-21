@@ -1,0 +1,9 @@
+ol { font-weight: 600; }
+#winter { color: rgb(0, 0, 200); }
+#spring { color: rgb(0, 190, 0); }
+#summer { color: #ffd24c; }
+#autumn { color: #d96c00; }
+#winter li { list-style-image: url(markers/snow.png); }
+#spring li { list-style-image: url(markers/leaf.png); }
+#summer ul { list-style-image: url(markers/sun.png); }
+#autumn ul { list-style-image: url(markers/rain.png); }
